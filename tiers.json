@@ -1,17 +1,18 @@
 {
    "reqs":{
-      "Bleeds":"Perform all provokes of a kill in melee distance and clear them effectively",
+      "Bleeds":"Perform all provokes of a kill in melee distance and clear bleeds effectively",
       "Heal Other":"Crack healing and usage of Heal Other during cade cepts",
       "Cade Cept":"Cade cept at all required times",
       "Climber":"Climb in P1 and provoke Vorago at 36 seconds",
-      "Target Cycle":"TC in combination with any fast ability on phase 3 and 5 (no running)",
-      "Recenter":"Recentering P2 from any location with any walking direction",
+      "Target Cycle":"TC in combination with any fast-hitting ability on phase 3 and 5 (no running)",
+      "Recenter":"Recenter P2 from any location with any walking direction",
       "BD Bleeds":"Escape-bladed dive to clear bleeds",
-      "Natty":"Natty without lost ticks until TC",
+      "Natty":"Natural instinct without lost ticks until TC going into phases 3 and 5",
       "Bleed Skip":"Perform a Bleed skip on Ceiling Collapse",
       "Solo Lure":"Solo lure with south BD at 30,6 seconds",
       "Hammer Climber":"Hammer on TC and perform a climb (final platform at 33s)",
-      "Advanced Climber":"Hammer on TC and perform an accelaration climb (final platform at 28,8s). Can be done in a separate clip"
+      "Advanced Climber":"Hammer on TC and perform an acceleration climb (final platform at 28,8s). Can be done in a separate clip",
+      "Stall":"Stall an ability and release on tick"
    },
    "guides":{
       "introduction":"813038513989222420",
@@ -129,7 +130,9 @@
             "Inherited skill requirements from `.info Duo T3`",
             "Achieve ONE of the timers\n- Ceilings `06:42`\n- Scopulus `07:02`\n- Vitalis `06:54`\n- Green Bomb `07:02`\n- Team Split `07:00/07:15`\n- The End `07:45`",
             "Solo Lure",
-            "Advanced Climber"
+            "Advanced Climber",
+            "Natty",
+            "Stall"
          ],
          "apps":[
             "VOD of one kill complying with one of the time requirements"
