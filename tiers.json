@@ -12,7 +12,7 @@
       "Solo Lure":"Solo lure with south BD at 30,6 seconds",
       "Hammer Climber":"Hammer on TC and perform a climb (final platform at 33s)",
       "Advanced Climber":"Hammer on TC and perform an acceleration climb (final platform at 28,8s). Can be done in a separate clip",
-      "Stall":"Stall an ability and release on tick"
+      "Stall":"Stall an ability and release on tick on phases 3 and 5"
    },
    "guides":{
       "introduction":"813038513989222420",
@@ -86,7 +86,7 @@
          "name":"Duo T2",
          "reqs":[
             "Inherited skill requirements from `.info Duo T1`",
-            "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n \t- Ceilings `08:05`\n \t- Scopulus `07:50`\n \t- Vitalis `08:05`\n \t- Green Bomb `08:05`\n \t- Team Split `08:20`\n \t- The End `08:55`",
+            "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `08:05`\n- Scopulus `07:50`\n- Vitalis `08:05`\n- Green Bomb `08:05`\n- Team Split `08:20`\n- The End `08:55`",
             "Target Cycle"
          ],
          "apps":[
