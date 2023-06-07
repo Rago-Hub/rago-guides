@@ -128,7 +128,7 @@
          "name":"Duo T4",
          "reqs":[
             "Inherited skill requirements from `.info Duo T3`",
-            "Achieve ONE of the timers\n- Ceilings `06:42`\n- Scopulus `07:02`\n- Vitalis `06:54`\n- Green Bomb `07:02`\n- Team Split `07:00/07:15`\n- The End `07:45`",
+            "Achieve ONE of the timers (**subtract 10s if double melee**)\n- Ceilings `06:42`\n- Scopulus `07:02`\n- Vitalis `06:54`\n- Green Bomb `07:02`\n- Team Split `07:00/07:15`\n- The End `07:45`",
             "Solo Lure",
             "Advanced Climber",
             "Natty",
